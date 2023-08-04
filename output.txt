@@ -1,0 +1,3 @@
+Searching for is
+In file text.txt
+my name is Tushar
